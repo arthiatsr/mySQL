@@ -20,7 +20,7 @@ The app has dependencies on the below two NMP packages.
  3. Populate the table with atleast 10 data before running the app
 
 Future developement work
-    Manager view - Work in progress - Will be worked upon at later time. 
-    Supervisor view - Will be worked upon at later time.
+1. Manager view - Work in progress - Will be worked upon at later time. 
+2. Supervisor view - Will be worked upon at later time.
 
  
